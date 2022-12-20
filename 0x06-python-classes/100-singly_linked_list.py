@@ -86,4 +86,3 @@ class SinglyLinkedList:
             tmp = tmp.next_node
         v = [str(val) for val in sorted(values)]
         return ('\n'.join(v))
-

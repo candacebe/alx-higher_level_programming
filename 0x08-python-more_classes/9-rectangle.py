@@ -154,3 +154,4 @@ class Rectangle:
             a new instance of Rectangle class
         """
 
+        return cls(size, size)
